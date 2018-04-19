@@ -11,7 +11,7 @@
       <stringProp name="TestPlan.user_define_classpath"></stringProp>
     </TestPlan>
     <hashTree>
-      <Arguments guiclass="ArgumentsPanel" testclass="Arguments" testname="用户定义的变量_通用_预发布环境" enabled="true">
+      <Arguments guiclass="ArgumentsPanel" testclass="Arguments" testname="用户定义的变量_通用_预发布环境(展会荣)" enabled="true">
         <collectionProp name="Arguments.arguments">
           <elementProp name="url" elementType="Argument">
             <stringProp name="Argument.name">url</stringProp>
